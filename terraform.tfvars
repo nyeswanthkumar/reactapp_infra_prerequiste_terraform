@@ -1,0 +1,6 @@
+resource_group = "react-app-config-rg"
+location       = "westeurope"
+statefile_storage_account_name = "statefilereactapp"
+statefile_storage_account_sku = "Standard"
+react-app-config-kv-name = "react-app-config-kv"
+react-app-config-kv-sku = "standard"
